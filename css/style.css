@@ -752,3 +752,66 @@ blockquote span.fa {
     font-size: 14px;
     letter-spacing: 1px;
 }
+
+/*-- offered services bottom --*/
+h3.tittle-w3 {
+    font-size: 3.3em;
+    font-weight: 600;
+    color: #333;
+}
+.video-right p{
+	font-size: 16px;
+	color: #666;
+}
+/*-- //offered services bottom --*/
+
+
+/*-- footer --*/
+footer {
+    background: #212020;
+}
+
+.footer-title {
+    font-size: 20px;
+    letter-spacing: 1px;
+	color: #fff;
+}
+
+.contact-info p a,
+.contact-info p,
+ul.links li a {
+    color: #777;
+    font-size: 15px;
+}
+.contact-info .footer-style-w3ls p.date{
+    font-size: 13px;
+	font-style: italic;
+}
+.contact-info p span {
+    display: block;
+}
+
+.footer-style-w3lsp a {
+    color: #999;
+}
+
+.contact-info h4 {
+    font-size: 15px;
+    letter-spacing: 1px;
+    color: #aaa;
+}
+.contact-info h4 i {
+    color: #999;
+}
+/* quick links */
+ul.links li a {
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+ul.links li a:hover,
+.footer-style-w3lsp a:hover {
+    color: #999;
+}
