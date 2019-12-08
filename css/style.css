@@ -708,3 +708,47 @@ a.btn-w3layouts_pvt {
     text-decoration: none;
     color: #000;
 }
+/*-- Testimonials --*/
+.testi {
+    background: url(../images/bg.jpg) no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.testimonials blockquote {
+    background: #fff none repeat scroll 0 0;
+    border: medium none;
+    color: #666;
+    display: block;
+    font-size: 14px;
+    padding: 30px 30px;
+    position: relative;
+}
+blockquote span.fa {
+    color: #009688;
+}
+.testimonials .carousel-info img {
+    border-radius: 150px !important;
+    height: 80px;
+    width: 80px;
+}
+.testimonials .carousel-info {
+    overflow: hidden;
+}
+.testimonials .carousel-info img {
+    margin-right: 15px;
+}
+.testimonials .carousel-info span {
+    display: block;
+}
+.testimonials span.testimonials-name {
+    color: #fff;
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 15px 0 0px;
+}
+.testimonials span.testimonials-post {
+    color: #eee;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
