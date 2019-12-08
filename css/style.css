@@ -574,3 +574,70 @@ h2.heading,h3.heading {
     box-shadow: 7px 7px 10px 0 rgba(76, 110, 245, .1);
 	background: #fff;
 }
+
+/*-- partners --*/
+ul.partners-icon li span.fa {
+    font-size: 3em;
+    color: #eee;
+}
+.partners{
+	background: #b84592;
+}
+.partners h3.heading {
+	color: #fff;
+}
+
+/*-- offered services --*/
+h4.w3layouts_pvt-head {
+	text-transform: capitalize;
+	font-weight: bold;
+	font-size: 2em;
+	color: #0068b7;
+}
+
+span.title-icon-wthree {
+	color: #ffc107;
+	font-size: 1em;
+}
+
+.title-sec-w3layouts_pvt p {
+	color: #333;
+}
+
+.title-sec-w3layouts_pvt {
+	border-left: 5px #bdbdbd solid;
+	padding-left: 1em;
+}
+
+h4.feed-title {
+    font-size: 25px;
+    color: #333;
+    letter-spacing: 1px;
+}
+
+a.btn-w3layouts_pvt span {
+	margin-left: 5px;
+	color: #ffc107;
+	font-size: 1em;
+}
+
+a.btn-w3layouts_pvt:hover {
+	color: #0068b7;
+	letter-spacing: 0.5px;
+}
+
+.ab-pvtw3 p {
+	width: 478px;
+}
+
+a.btn-w3layouts_pvt {
+	display: inline-block;
+	margin-top: 1em;
+	color: #000;
+	font-weight: 600;
+}
+
+.process p {
+    font-size: 16px;
+    color: #777;
+}
