@@ -815,3 +815,25 @@ ul.links li a:hover,
 .footer-style-w3lsp a:hover {
     color: #999;
 }
+
+/* copyright */
+.copy-right-top {
+    background: #212020;
+}
+.copy-right {
+    letter-spacing: 1px;
+    font-size: 15px;
+    color: #999;
+}
+
+.copy-right a {
+    color: #eee;
+}
+
+.copy-right a:hover {
+    color: #fff;
+}
+
+.copy-right-top {
+    border-color: rgba(255, 255, 255, 0.2) !important;
+}
